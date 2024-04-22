@@ -7,6 +7,7 @@
 - [x] Add database to UI
 - [x] Add authentication with Clerk
 - [ ] Add image upload
+- [ ] "taint" (server-only)
 - [ ] Error maangement
 - [ ] Routing/image page
 - [ ] Delete button
