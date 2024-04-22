@@ -5,7 +5,7 @@
 - [x] Scaffold basic ui with mock data
 - [x] Tidy up build
 - [x] Add database to UI
-- [ ] Add authentication
+- [x] Add authentication with Clerk
 - [ ] Add image upload
 - [ ] Error maangement
 - [ ] Routing/image page
