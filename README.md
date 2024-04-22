@@ -4,7 +4,7 @@
 - [x] Scaffold basic ui with mock data
 - [x] Scaffold basic ui with mock data
 - [x] Tidy up build
-- [ ] Add database to UI
+- [x] Add database to UI
 - [ ] Add authentication
 - [ ] Add image upload
 - [ ] Error maangement
